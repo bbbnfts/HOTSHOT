@@ -1,0 +1,26 @@
+{
+  "format": "CHIP-0007",
+  "minting_tool": "mintgarden-studio",
+  "sensitive_content": false,
+  "name": "HOTSHOT #1957",
+  "description": "NSFW 18+ A sensual liquid-energy burst series. Half-body characters, 3D x anime hybrid. Dark, provocative, unforgettable.",
+  "attributes": [],
+  "collection": {
+    "id": "fcd3e645-9ae6-4de4-b7ac-89fc6670853c",
+    "name": "HOTSHOT",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "NSFW 18+ A sensual liquid-energy burst series. Half-body characters, 3D x anime hybrid. Dark, provocative, unforgettable."
+      },
+      {
+        "type": "icon",
+        "value": "https://ipfs.mintgarden.io/ipfs/bafybeigc6abgytvc7pulwpol5cmi5utxuadhwkna54w5aztiaznwx5v4n4/Profil.gif"
+      },
+      {
+        "type": "banner",
+        "value": "https://ipfs.mintgarden.io/ipfs/bafybeicbox2j5nu3c7uqko25gsvo333mg72droef2hes3l3cdfszwt4dee/Banner.png"
+      }
+    ]
+  }
+}
